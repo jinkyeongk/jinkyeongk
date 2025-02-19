@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,100:ffe&height=300&section=header&text=Full-Stack%20Developer&fontSize=90&fontColor=fbd786&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=50&animation=blink)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jinkyeongk&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
@@ -41,5 +41,3 @@
   <!-- Github Score 
    ![Jinkyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinkyeongk&theme=dracula) -->
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,100:ffe&height=300&section=footer&text=&fontSize=90&fontColor=fbd786)
