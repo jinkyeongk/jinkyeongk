@@ -1,7 +1,7 @@
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,100:FFC0CB&height=100&section=header&fontSize=50&animation=blink&colorGradient=true)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=50&animation=blink)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jinkyeongk&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
